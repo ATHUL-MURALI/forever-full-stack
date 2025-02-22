@@ -1,0 +1,3 @@
+yXVeditbD53vtnzw-pass
+anithaathul916 - mongodb username
+mongodb+srv://anithaathul916:yXVeditbD53vtnzw@projectcluster.pdomw.mongodb.net/ - mongo
