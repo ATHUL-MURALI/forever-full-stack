@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fast-average-color": "^9.4.0",
+    "framer-motion": "^12.5.0"
+  }
+}
